@@ -404,4 +404,8 @@ footer .navbar a {
         max-width: 90%;
         font-size: 26px;
     }
+
+    .bottom_banner .banner_image {
+        width: 90%;
+    }
 }
