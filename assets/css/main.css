@@ -408,4 +408,8 @@ footer .navbar a {
     .bottom_banner .banner_image {
         width: 90%;
     }
+
+    .testimonial .test_block .box {
+        max-width: 90%;
+    }
 }
